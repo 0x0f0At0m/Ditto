@@ -8,4 +8,5 @@ See ya!
 
 https://github.com/user-attachments/assets/7f78782d-f584-45a0-8a0b-568545205d5c
 
+<h2>Oh forgot only for Linux currently!</h2>
 
