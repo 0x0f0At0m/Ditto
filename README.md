@@ -1,7 +1,6 @@
 # Ditto
 
-Ditto, A pokemon.
+<h2>Ditto, A pokemon.</h2>
 
 
-<h2>Oh forgot only for Linux currently!</h2>
 
